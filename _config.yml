@@ -8,7 +8,7 @@
 
 title: "Gerard's Blog"
 description: An easy to use blogging platform with support for Jupyter Notebooks.
-github_username: gerardsre
+github_username: gerardsegarra
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "gerarddevops"
 
@@ -39,8 +39,8 @@ baseurl: "/gerarddevops" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: GerardSL_
+    github: gerardsre
 
 # Set this to true to get LaTeX math equation support
 use_math: 
